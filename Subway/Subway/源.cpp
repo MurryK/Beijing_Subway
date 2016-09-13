@@ -181,7 +181,7 @@ void printPath(station * S) {
 		}
 	}
 	if (path == "") {
-		cout << "0\n";
+		cout << "\n";
 	}
 	else
 		cout << path << endl;;
